@@ -36,3 +36,4 @@ Linux는 서버나 개발 환경에서 많이 사용되기 때문에 CLI를 사�
 - `cat` : 파일의 내용을 확인한다.
 
 실행결과
+<img width="587" height="317" alt="image" src="https://github.com/user-attachments/assets/e95d7680-e523-4da4-bce5-7e3cd9496548" />
