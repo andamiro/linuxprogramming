@@ -12,4 +12,4 @@
 상대경로(relative path): 현재 작업 디렉터리를 기준으로 파일이나 디렉터리의 위치를 나타내는 경로이다. 예: ../images/photo.jpg
 절대경로(absolute path): 루트 디렉터리 /부터 시작하여 파일이나 디렉터리의 전체 위치를 나타내는 경로이다. 예: /home/user/images/photo.jpg
 
-## 
+# 실습과제2
