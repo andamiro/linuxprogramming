@@ -13,3 +13,9 @@
 - 절대경로(absolute path): 루트 디렉터리 /부터 시작하여 파일이나 디렉터리의 전체 위치를 나타내는 경로이다. 예: /home/user/images/photo.jpg
 
 # 실습과제2
+
+## /usr/lib/gcc/x86_64-linux-gnu 디렉터리로 이동하는 절대경로를 이용하는 명령어는? 
+<img width="721" height="121" alt="image" src="https://github.com/user-attachments/assets/2356d98d-c70c-4864-b836-905ea890f033" />
+
+## /usr/lib/gcc/x86_64-linux-gnu 디렉터리로 이동하는 상대경로를 이용하는 명령어는? 
+<img width="787" height="122" alt="image" src="https://github.com/user-attachments/assets/7bc6cf0d-51c0-4473-93e3-7f394950a17b" />
