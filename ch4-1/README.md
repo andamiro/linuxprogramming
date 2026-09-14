@@ -14,6 +14,12 @@
 
 # 실습과제2
 
+## 현재 작업 디렉터리에서 루트 디렉터리로 이동하는 절대 경로를 이용하는 명령어는?
+<img width="334" height="92" alt="image" src="https://github.com/user-attachments/assets/a60ff9ff-e111-4fa0-9276-ce26573aa591" />
+
+## 현재 작업 디렉터리에서 루트 디렉터리로 이동하는 상대 경로를 이용하는 명령어는?
+<img width="387" height="101" alt="image" src="https://github.com/user-attachments/assets/cdd9d7ef-1457-45b7-a768-13a17af9094a" />
+
 ## /usr/lib/gcc/x86_64-linux-gnu 디렉터리로 이동하는 절대경로를 이용하는 명령어는? 
 <img width="721" height="121" alt="image" src="https://github.com/user-attachments/assets/2356d98d-c70c-4864-b836-905ea890f033" />
 
