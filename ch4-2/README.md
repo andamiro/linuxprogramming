@@ -8,3 +8,10 @@
 | `-F` | 파일의 종류를 구분할 수 있도록 이름 뒤에 기호를 붙여 표시한다. 예를 들어 디렉터리는 `/`, 실행 파일은 `*`가 붙는다. | `ls -F` |
 | `--help` | `ls` 명령어의 사용법과 사용 가능한 옵션에 대한 도움말을 출력한다. | `ls --help` |
 <img width="501" height="595" alt="image" src="https://github.com/user-attachments/assets/9818b28e-abea-4137-ae23-86e317ad86aa" />
+
+## 경로확장 문자 *, ?의 의미를 설명하고 각각 실행예를 첨부하시오
+| 경로 확장 문자 | 의미 | 실행 예 |
+| -- | -- | -- |
+| `*` | 0개 이상의 임의의 문자를 의미한다. 특정 문자열로 시작하거나 끝나는 여러 파일을 한 번에 지정할 때 사용한다. | `ls *.txt` |
+| `?` | 임의의 문자 1개를 의미한다. 파일 이름에서 정확히 한 글자만 다른 파일들을 지정할 때 사용한다. | `ls file?.txt` |
+<img width="532" height="134" alt="image" src="https://github.com/user-attachments/assets/0d440bc7-b697-4840-86a9-b5b622ae1c67" />
